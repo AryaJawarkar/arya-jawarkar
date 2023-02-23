@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/arya-jawarkar/static/css/main.7ba822d6.css",
+    "main.js": "/arya-jawarkar/static/js/main.520dc958.js",
+    "static/media/netflix.png": "/arya-jawarkar/static/media/netflix.328264e385d96f984230.png",
+    "static/media/movie.png": "/arya-jawarkar/static/media/movie.75fd416569e9239a4737.png",
+    "static/media/gana.png": "/arya-jawarkar/static/media/gana.8cc96bf481766bce57a9.png",
+    "static/media/ecomm.png": "/arya-jawarkar/static/media/ecomm.1a0c7f8b8209a8797977.png",
+    "static/media/arya.jpg": "/arya-jawarkar/static/media/arya.8e166520272a03bfd95b.jpg",
+    "static/media/gihub.png": "/arya-jawarkar/static/media/gihub.d2a41bc60a57a0360fb3.png",
+    "static/media/Resume.pdf": "/arya-jawarkar/static/media/Resume.1772c8ec3f054ca927ec.pdf",
+    "static/media/dict.png": "/arya-jawarkar/static/media/dict.9aaf96c6321f5507872b.png",
+    "index.html": "/arya-jawarkar/index.html",
+    "main.7ba822d6.css.map": "/arya-jawarkar/static/css/main.7ba822d6.css.map",
+    "main.520dc958.js.map": "/arya-jawarkar/static/js/main.520dc958.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ba822d6.css",
+    "static/js/main.520dc958.js"
+  ]
+}
