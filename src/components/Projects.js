@@ -88,13 +88,13 @@ const Projects = () => {
             <div className='mt-1'>
               <a
                 className="inline-block bg-red-400 hover:bg-red-600 mx-1 p-1 text-white rounded"
-                href=" aryajawarkar.github.io/github-users-search/"
+                href="aryajawarkar.github.io/github-users-search/"
               >
                 Live Site
               </a>
               <a
                 className="inline-block bg-blue-300 hover:bg-blue-500 p-1 text-white rounded"
-                href=" https://github.com/AryaJawarkar/github-users-search"
+                href="https://github.com/AryaJawarkar/github-users-search"
               >
                 Source Code
               </a>
@@ -164,7 +164,7 @@ const Projects = () => {
             <div className='mt-1'>
               <a
                 className="inline-block bg-red-400 hover:bg-red-600 mx-1 p-1 text-white rounded"
-                href="aryajawarkar.github.io/Netflix-clone/"
+                href="https://aryajawarkar.github.io/Netflix-clone/"
               >
                 Live Site
               </a>
@@ -202,7 +202,7 @@ const Projects = () => {
             <div className='mt-1'>
               <a
                 className="inline-block bg-red-400 hover:bg-red-600 mx-1 p-1 text-white rounded"
-                href="aryajawarkar.github.io/movieTrix/"
+                href="https://aryajawarkar.github.io/movieTrix/"
               >
                 Live Site
               </a>
