@@ -88,7 +88,7 @@ const Projects = () => {
             <div className='mt-1'>
               <a
                 className="inline-block bg-red-400 hover:bg-red-600 mx-1 p-1 text-white rounded"
-                href="aryajawarkar.github.io/github-users-search/"
+                href="https://aryajawarkar.github.io/github-users-search/"
               >
                 Live Site
               </a>
